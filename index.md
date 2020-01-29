@@ -4,7 +4,7 @@ Hunter Centre, University of Otago.
 The Hunter Centre is located on the corner of Frederick and Great King Streets in Dunedin, New Zealand.(Opposite Dunedin Hospital)
 
 <div id="content">
-	<p>The Hunter Centre is located on the corner of Frederick and Great King Streets in Dunedin, New Zealand.</p><p>Jennifer Ramsay, Client Services Administrator (Hunter Centre)<br />Tel <a href="tel:+6434797422" target="">+64 3 479 7422</a><br /> Email <a target="" href="mailto:hunter.admin@otago.ac.nz">hunter.admin@otago.ac.nz</a></p>   <h2>Hunter Centre opening hours</h2> <ul>     <li>Monday to Friday 7:30am&ndash;5:30pm</li>     <li>Saturday and Sunday: Closed</li> </ul> <h2>Postal address</h2> <p>Hunter Centre<br /> University of Otago<br /> PO Box 56<br /> Dunedin 9054<br /> New Zealand</p> <h2>Hunter Centre location map</h2> <p class="fullwidthimage noborder"><iframe allowfullscreen="" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2778.1587784450094!2d170.50696961647813!3d-45.86813284379679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac6dc69f8591%3A0x32bb51f6bd957c7!2sHunter+Centre+Great+King+St%2C+North+Dunedin%2C+Dunedin+9016!5e0!3m2!1sen!2snz!4v1470783594215" width="650" height="400" frameborder="0"></iframe></p>
+	<h2>Hunter Centre location map</h2> <p class="fullwidthimage noborder"><iframe allowfullscreen="" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2778.1587784450094!2d170.50696961647813!3d-45.86813284379679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82eac6dc69f8591%3A0x32bb51f6bd957c7!2sHunter+Centre+Great+King+St%2C+North+Dunedin%2C+Dunedin+9016!5e0!3m2!1sen!2snz!4v1470783594215" width="650" height="400" frameborder="0"></iframe></p>
 
 </div>
 
