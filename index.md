@@ -9,9 +9,10 @@ The Hunter Centre is located on the corner of Frederick and Great King Streets i
 </div>
 
 Hunter Centre rooms:
-    - HUG30A (main)
-    - HU118 (breakout)
-    - HU119 (breakout)
+
+- HUG30A (main)
+- HU118 (breakout)
+- HU119 (breakout)
 
 
 Draft schedule:
@@ -19,11 +20,11 @@ Draft schedule:
 Time  | Breaks | Activity
 ---|---|---
 10:00 | Tea/Coffee/Mingling |
-10:30 || Ice breaker |
-||Carpentries in NZ
- ||  Discussion                 
- ||  National workshop calendar 
- ||  How to set up a carpentries workshop 
+10:30 | | Ice breaker |
+| |Carpentries in NZ
+ | |  Discussion                 
+ | |  National workshop calendar 
+ | |  How to set up a carpentries workshop 
 12:00 | Lunch |
 13:00 || Improv workshop / breakouts
 15:00 | Tea/Coffee/Mingling|
