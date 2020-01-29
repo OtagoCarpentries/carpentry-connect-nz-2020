@@ -1,4 +1,7 @@
+# Carpentry Connect NZ 2020
+
 ## Venue:
+
 Hunter Centre, University of Otago.
 
 The Hunter Centre is located on the corner of Frederick and Great King Streets in Dunedin, New Zealand.(Opposite Dunedin Hospital)
@@ -15,7 +18,7 @@ Hunter Centre rooms:
 - HU119 (breakout)
 
 
-Draft schedule:
+## Draft schedule:
 
 Time  | Breaks | Activity
 ---|---|---
